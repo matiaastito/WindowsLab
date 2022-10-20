@@ -77,6 +77,12 @@
     <Compile Include="FrmCaso5.Designer.cs">
       <DependentUpon>FrmCaso5.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCaso6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaso6.Designer.cs">
+      <DependentUpon>FrmCaso6.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmCaso1.resx">
@@ -93,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCaso5.resx">
       <DependentUpon>FrmCaso5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCaso6.resx">
+      <DependentUpon>FrmCaso6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
